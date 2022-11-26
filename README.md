@@ -1,4 +1,4 @@
-# This is my first Backend App.
+# This is my first Backend Project.
 
 ## Things that I learn -
 ### Express 
